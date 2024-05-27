@@ -1,6 +1,6 @@
 ## Bem Vindo 🚚➕🚀🟰🤖
 
-  Meu nome é Nícolas de Sousa Roda.
+  Meu nome é **N**ícolas de **S**ousa **R**oda.
 
   - Estou no GitHub.
   - Estou estudando e me desenvolvendo na linguagem JavaScript.
